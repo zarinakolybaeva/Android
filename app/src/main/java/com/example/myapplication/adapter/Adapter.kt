@@ -27,7 +27,6 @@ class Adapter(
             )
         )
     }
-//    override fun getItemCount(): Int = ListOfPizza.size
 
     override fun getItemCount(): Int {
         return ListPizza.size
